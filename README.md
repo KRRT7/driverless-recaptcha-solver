@@ -1,3 +1,4 @@
+## This is still a WIP, not usable at all yet.
 ## Selenium-recaptcha-solver
 
 You can use this package to solve ReCAPTCHA challenges with selenium.
